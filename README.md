@@ -22,9 +22,3 @@ if omit is missing, all keys with truth-value are returned.
 #### valueFilterWith(obj, filter: (val: string) => boolean)
 
 Iterates over elements of obj, returning a subset of the received object which all elements predicate returns truthy for.
-
----
-
-> [sqrtthree.com](http://sqrtthree.com/) &nbsp;&middot;&nbsp;
-> GitHub [@sqrthree](https://github.com/sqrthree) &nbsp;&middot;&nbsp;
-> Twitter [@sqrtthree](https://twitter.com/sqrtthree)
